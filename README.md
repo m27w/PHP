@@ -17,15 +17,13 @@ To use these PHP scripts, follow these steps:
 ## Scripts
 Here's a brief overview of the scripts available in this repository:
 
-1. **Data Manipulation Scripts**: Scripts for manipulating data, such as CSV parsing, XML processing, etc.
+1. **File Handling Scripts**: Scripts for file manipulation tasks, including reading, writing, and modifying files.
 
-2. **File Handling Scripts**: Scripts for file manipulation tasks, including reading, writing, and modifying files.
+2. **Web Scraping Scripts**: Scripts designed to extract data from websites using web scraping techniques.
 
-3. **Web Scraping Scripts**: Scripts designed to extract data from websites using web scraping techniques.
+3. **Database Interaction Scripts**: Scripts for interacting with databases, including MySQL, PostgreSQL, SQLite, etc.
 
-4. **Database Interaction Scripts**: Scripts for interacting with databases, including MySQL, PostgreSQL, SQLite, etc.
-
-5. **Utility Scripts**: Miscellaneous scripts for various purposes, such as generating random data, handling dates and times, etc.
+4. **Utility Scripts**: Miscellaneous scripts for various purposes, such as generating random data, handling dates and times, etc.
 
 ## Contributing
 Contributions to this repository are welcome. If you have a PHP script that you think would be useful to others, feel free to submit a pull request. Please ensure that your code is well-documented and follows best practices.
