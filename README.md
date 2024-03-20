@@ -30,8 +30,5 @@ Here's a brief overview of the scripts available in this repository:
 ## Contributing
 Contributions to this repository are welcome. If you have a PHP script that you think would be useful to others, feel free to submit a pull request. Please ensure that your code is well-documented and follows best practices.
 
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Contact
 If you have any questions, suggestions, or concerns regarding these scripts, feel free to contact the repository owner.
